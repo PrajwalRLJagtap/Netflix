@@ -40,3 +40,6 @@ The best movies according to popularity return high profit and revenue.
 Highly budgeted movies return high revenue and profit.
 Highly budgeted movies have a high vote avg.
 Highly budgeted movies have a high popularity.
+
+https://images.unsplash.com/photo-1574375927938-d5a98e8ffe85?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8bmV0ZmxpeHxlbnwwfHwwfHw%3D&w=1000&q=80
+
