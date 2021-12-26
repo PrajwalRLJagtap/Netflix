@@ -1,20 +1,6 @@
 Netflix started in 1997 as a rent-by-mail DVD service that used a pay-per-rental model. Users would browse and order the films they wanted on their website, put in an order, and Netflix would post them to your door. After renters had finished with the DVDs, they would simply post them back. On July 10, 2020, Netflix became the largest entertainment company by market capitalization.
 
 
-
-The company has grown from a DVD mail order format to being the king of original content. With the impact of Covid-19 on the operation of movie theatres, and more people having to remain indoors, Netflix may soon become ‘the’ viable alternative.
-
-In last few years, the film industry has become more popular than ever.
-
-In 2018, movies made total income around $ 41.7 billion throughout the world.
-
-While Netflix 's core strength lies in original series & movies , they also need to understand the movie selection guidance system basis past data analysis & align marketing & PR teams for scouting the most promising release that will help to garner new subscription.
-Hence the Business issues are
-
-A. To ensure retention what all things they need to build while content creation that will earn the best in terms of revenue, popularity and acclaim.
-
-B. To come up with characteristics of movies that will help them achieve their business goal
-
 Hence the Research Questions are:
 
 Industry Outlook
